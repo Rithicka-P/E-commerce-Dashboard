@@ -1,2 +1,5 @@
 # E-commerce-Dashboard
-Created an E-commerce dashboard using Power BI tool
+Created interactive visualizations using Power BI to analyze sales trends and customer
+behavior in an e-commerce business. Proficient in data manipulation, Power BI dashboard
+design, and presenting complex information through compelling visuals.
+
